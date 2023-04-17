@@ -1,0 +1,8 @@
+C:\Users\苏二\Desktop\新建文件夹\YuZongzhi0113LABApp\YuZongzhi0113LABApp\bin\Debug\YuZongzhi0113LABApp.exe.config
+C:\Users\苏二\Desktop\新建文件夹\YuZongzhi0113LABApp\YuZongzhi0113LABApp\bin\Debug\YuZongzhi0113LABApp.exe
+C:\Users\苏二\Desktop\新建文件夹\YuZongzhi0113LABApp\YuZongzhi0113LABApp\bin\Debug\YuZongzhi0113LABApp.pdb
+C:\Users\苏二\Desktop\新建文件夹\YuZongzhi0113LABApp\YuZongzhi0113LABApp\obj\Debug\SuEr0130LABApp.csproj.AssemblyReference.cache
+C:\Users\苏二\Desktop\新建文件夹\YuZongzhi0113LABApp\YuZongzhi0113LABApp\obj\Debug\SuEr0130LABApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\苏二\Desktop\新建文件夹\YuZongzhi0113LABApp\YuZongzhi0113LABApp\obj\Debug\SuEr0130LABApp.csproj.CoreCompileInputs.cache
+C:\Users\苏二\Desktop\新建文件夹\YuZongzhi0113LABApp\YuZongzhi0113LABApp\obj\Debug\YuZongzhi0113LABApp.exe
+C:\Users\苏二\Desktop\新建文件夹\YuZongzhi0113LABApp\YuZongzhi0113LABApp\obj\Debug\YuZongzhi0113LABApp.pdb
